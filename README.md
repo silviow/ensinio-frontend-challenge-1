@@ -14,7 +14,7 @@ Esperamos também que você se divirta e aprenda algo no processo. :blush:
 
 Uma interface feita por um designer demasiadamente inspirado, rs.
 
-- https://www.figma.com/file/M0jy5rqNumytQKuKZYhgPS/Ensinio-Technical-Test
+- https://www.figma.com/file/M0jy5rqNumytQKuKZYhgPS/Ensinio-Frontend-Challenge-1
 
 ## :bulb: A proposta
 
