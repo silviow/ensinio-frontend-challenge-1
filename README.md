@@ -28,7 +28,7 @@ Encorajamos o uso de bibliotecas CSS-in-JS como styled-components, sobretudo vis
 
 ## :page_facing_up: Critérios de avaliação
 
-- A estrutura do seu projeto;
 - A qualidade do seu código;
-- A responsividade da interface codificada (deve adaptar-se com maestria para absolutamente qualquer tamanho de tela, desde pequenos smartphones até monitores ultrawide);
-- Seu empenho! (não tem problema se algo não sair como desejado, nós somos humanos e temos empatia - quem não teve foi o designer :satisfied:)
+- A estrutura do seu projeto: esperamos ver componentização coesa, reuso, encapsulamento, separação de responsabilidades, etc;
+- A responsividade da interface codificada: deve adaptar-se com maestria para absolutamente qualquer tamanho de tela, desde pequenos smartphones até monitores ultrawide;
+- Seu empenho: não tem problema se algo não sair como desejado, nós somos humanos e temos empatia - quem não teve foi o designer :satisfied:!
