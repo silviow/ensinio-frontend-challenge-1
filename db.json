@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Trilhas de etapas",
+      "description": "Crie planos de estudos especificando aulas e/ou cursos e definindo a ordem que seus alunos devem estudar."
+    },
+    {
+      "id": 2,
+      "title": "Playlists",
+      "description": "Transforme uma coleção em uma playlist para poder ver vídeos e áudios em sequência offline."
+    },
+    {
+      "id": 3,
+      "title": "Coleções",
+      "description": "Crie coleções, adicione conteúdos, reorganize ítens e deixe tudo do seu jeito para melhorar a experiência."
+    }
+  ]
+}
