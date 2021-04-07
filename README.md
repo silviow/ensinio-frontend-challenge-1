@@ -26,7 +26,7 @@ Encorajamos o uso de bibliotecas CSS-in-JS como styled-components, sobretudo vis
 
 - Animações;
 - Usabilidade impecável (botões devem ter cursor do tipo pointer, feedbacks visuais de hover, etc);
-- Escrever um ou mais testes de unidade. :)
+- Escrever um ou mais testes de unidade :)
 
 ## :page_facing_up: Critérios de avaliação
 
