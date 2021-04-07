@@ -12,15 +12,23 @@ Esperamos também que você se divirta e aprenda algo no processo. :blush:
 
 ## :eyes: O problema
 
-Uma interface feita por um designer demasiadamente inspirado, rs.
+Uma interface feita por um designer inspirado, rs.
 
 - https://www.figma.com/file/M0jy5rqNumytQKuKZYhgPS/Ensinio-Frontend-Challenge-1
+
+![Interface demo](interface-demo.png)
 
 ## :bulb: A proposta
 
 Você deve codificá-la :smiley:, utilizando HTML, CSS, JavaScript e React.js.
 
 Encorajamos o uso de bibliotecas CSS-in-JS como styled-components, sobretudo visando delimitar o escopo da estilização (em seus respectivos componentes), mas para as finalidades deste teste técnico, não é permitido o uso de Bootstrap, Tailwind CSS e congêneres.
+
+Para a seção abaixo (vide imagem), os títulos e descrições dos itens devem ser requisitados de uma API fictícia. Utilize o [json-server](https://github.com/typicode/json-server) para simular uma API com o arquivo "db.json" contido neste repositório.
+
+![Section demo](dynamic-section.png)
+
+Por fim, forneça uma documentação, por meio de um arquivo README.md, acerca do seu projeto. Inclua instruções completas para a execução da aplicação, e comentários que julgar pertinentes à avaliação.
 
 ## :clap: Diferenciais
 
@@ -31,6 +39,7 @@ Encorajamos o uso de bibliotecas CSS-in-JS como styled-components, sobretudo vis
 ## :page_facing_up: Critérios de avaliação
 
 - A qualidade do seu código;
+- A fidelidade da interface codificada;
 - A estrutura do seu projeto: esperamos ver componentização coesa, reuso, encapsulamento, separação de responsabilidades, etc;
-- A responsividade da interface codificada: deve adaptar-se com maestria para absolutamente qualquer tamanho de tela, desde pequenos smartphones até monitores ultrawide;
+- A responsividade da aplicação: deve adaptar-se com maestria para absolutamente qualquer tamanho de tela, desde pequenos smartphones até monitores ultrawide;
 - Seu empenho: não tem problema se algo não sair como desejado, nós somos humanos e temos empatia - quem não teve foi o designer :satisfied:!
