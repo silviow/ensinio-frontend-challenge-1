@@ -43,3 +43,11 @@ Por fim, forneça uma documentação, por meio de um arquivo README.md, acerca d
 - A estrutura do seu projeto: esperamos ver componentização coesa, reuso, encapsulamento, separação de responsabilidades, etc;
 - A responsividade da aplicação: deve adaptar-se com maestria para absolutamente qualquer tamanho de tela, desde pequenos smartphones até monitores ultrawide;
 - Seu empenho: não tem problema se algo não sair como desejado, nós somos humanos e temos empatia - quem não teve foi o designer :satisfied:!
+
+## :email: Sobre a entrega
+
+Pedimos que, por gentileza, entregue o teste em até 7 dias a partir do recebimento das instruções, enviando um email para **jobs@ensinio.com** com o link de um **repositório privado** no GitHub. Neste repositório, adicione como colaboradores os usuários [@silviow](https://github.com/silviow) (silvio.mms2016@gmail.com) e [@guiavila](https://github.com/guiavila).
+
+Se por motivos de força maior não for possível cumprir com o prazo, por gentileza, nos informe via email. 
+
+Qualquer dúvida, [entre em contato](https://www.linkedin.com/in/silviow/) :muscle:
