@@ -30,19 +30,27 @@ Para a seção abaixo (vide imagem), os títulos e descrições dos itens devem 
 
 Por fim, forneça uma documentação, por meio de um arquivo README.md, acerca do seu projeto. Inclua instruções completas para a execução da aplicação, e comentários que julgar pertinentes à avaliação.
 
+## :dart: Requisitos do projeto
+
+- A interface deve ser 100% responsiva;
+- Fazer uso de uma ou mais ferramentas "linter";
+- Usabilidade impecável (botões devem ter cursor do tipo pointer, feedbacks visuais de hover, etc);
+- Requisitar dados (presentes no arquivo "db.json") de uma API fictícia utilizando [json-server](https://github.com/typicode/json-server);
+- Fornecer uma documentação, incluindo instruções para a execução da sua aplicação;
+
 ## :clap: Diferenciais
 
 - Animações;
-- Usabilidade impecável (botões devem ter cursor do tipo pointer, feedbacks visuais de hover, etc);
 - Escrever um ou mais testes de unidade :)
 
 ## :page_facing_up: Critérios de avaliação
 
 - A qualidade do seu **código**;
+- O cumprimento dos **requisitos**;
 - A **fidelidade** da interface codificada;
 - A **estrutura** do seu projeto: esperamos ver componentização coesa, reuso, encapsulamento, separação de responsabilidades, etc;
 - A **responsividade** da aplicação: deve adaptar-se com maestria para absolutamente qualquer tamanho de tela, desde pequenos smartphones até monitores ultrawide;
-- Seu **empenho**: não tem problema se algo não sair como desejado, nós somos humanos e temos empatia - quem não teve foi o designer :satisfied:!
+- Seu **empenho**: não tem problema se algo não sair como desejado, mas tente! :blush:
 
 ## :email: Sobre a entrega
 
