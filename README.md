@@ -1,6 +1,6 @@
-## :rocket: Teste técnico para Desenvolvedor Front-end Junior na Ensinio
+## :rocket: Teste técnico para Desenvolvedor(a) Front-end Junior na Ensinio
 
-O presente teste foi cuidadosamente planejado para validar os conhecimentos necessários para a posição de Desenvolvedor Front-end Junior na Ensinio.
+O presente teste foi cuidadosamente planejado para validar os conhecimentos necessários para a posição de Desenvolvedor(a) Front-end Junior na Ensinio.
 
 Serão avaliados aspectos relacionados aos conhecimentos em boas práticas de desenvolvimento, além dos conhecimentos nas tecnologias HTML, CSS, JavaScript, React.js e no ecossistema que as cerca.
 
