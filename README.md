@@ -54,7 +54,7 @@ Por fim, forneça uma documentação, por meio de um arquivo README.md, acerca d
 
 ## :email: Sobre a entrega
 
-Pedimos que, por gentileza, entregue o teste em até 7 dias a partir do recebimento das instruções, preenchendo [este formulário](https://ensinio.atlassian.net/servicedesk/customer/portal/9/group/12/create/55) com o link de um **repositório privado** no GitHub. Neste repositório, adicione como colaborador o usuário [@silviow](https://github.com/silviow) (silvio.mms2016@gmail.com).
+Pedimos que, por gentileza, entregue o teste em até 7 dias a partir do recebimento das instruções, respondendo ao **mesmo email que enviamos para você com o link do desafio** e incluindo o link de um **repositório privado** no GitHub. Neste repositório, **adicione como colaborador o usuário [@silviow](https://github.com/silviow)** (silvio.mms2016@gmail.com).
 
 Se por motivos de força maior não for possível cumprir com o prazo, por gentileza, nos informe via email. 
 
