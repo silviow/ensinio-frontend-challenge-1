@@ -53,6 +53,10 @@ Por fim, forneça uma documentação, por meio de um arquivo README.md, acerca d
 - A **responsividade** da aplicação: deve adaptar-se com maestria para absolutamente qualquer tamanho de tela, desde pequenos smartphones até monitores ultrawide;
 - Seu **empenho**: não tem problema se algo não sair como desejado, mas tente! :blush:
 
+## :lock: Autoria
+
+O projeto desenvolvido durante o teste em questão **não será utilizado** para quaisquer outros fins além da avaliação do candidato. 
+
 ## :email: Sobre a entrega
 
 Pedimos que, por gentileza, entregue o teste em até 7 dias a partir do recebimento das instruções, respondendo à **mesma conversa de email onde enviamos o link do desafio** e incluindo o link de um **repositório privado** no GitHub. Neste repositório, **adicione como colaborador o usuário [@silviow](https://github.com/silviow)** (silvio.mms2016@gmail.com). No email, envie também o link para preview online da aplicação. :)
