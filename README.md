@@ -55,10 +55,14 @@ Por fim, forneça uma documentação, por meio de um arquivo README.md, acerca d
 
 ## :lock: Autoria
 
-O projeto desenvolvido durante o teste em questão **não será utilizado** para quaisquer outros fins além da avaliação do candidato. 
+O projeto desenvolvido durante o teste em questão **não será utilizado** para quaisquer outros fins além da avaliação do candidato.
+
+## :warning: Atenção
+
+**Não serão avaliados testes técnicos cuja aplicação não esteja hospedada**. O acesso deve estar disponível através de uma URL (você pode usar plataformas gratuitas, como Vercel, Netlify, Heroku e afins), que obrigatoriamente deve ser informada na documentação e email de entrega.
 
 ## :email: Sobre a entrega
 
-Pedimos que, por gentileza, entregue o teste em até 7 dias a partir do recebimento das instruções, respondendo à **mesma conversa de email onde enviamos o link do desafio** e incluindo o link de um **repositório privado** no GitHub. Neste repositório, **adicione como colaborador o usuário [@silviow](https://github.com/silviow)** (silvio.mms2016@gmail.com). No email, envie também o link para preview online da aplicação. :)
+Pedimos que, por gentileza, entregue o teste em até 7 dias a partir do recebimento das instruções, respondendo à **mesma conversa de email onde enviamos o link do desafio** e incluindo o link de um **repositório privado** no GitHub. Neste repositório, **adicione como colaboradores os usuários [@ensiniodevfront](https://github.com/ensiniodevfront)** (front@ensinio.com) **e [@silviow](https://github.com/silviow)** (silvio.mms2016@gmail.com). No email, envie também o link para preview online da aplicação. :)
 
 Se por motivos de força maior não for possível cumprir com o prazo, por gentileza, nos informe via email. 
